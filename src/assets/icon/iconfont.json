@@ -1,0 +1,16 @@
+{
+  "id": "4604051",
+  "name": "aitext",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12316660",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}
